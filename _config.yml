@@ -16,8 +16,7 @@
 title: Programing Courses
 email: javier_orduz@cuaed.unam.mx
 description: >- # this means to ignore newlines until "baseurl:"
-In this website yoy find information about [JO's](https://jaorduz.github.io) courses such as programming, machine learning, 
-quantum machine learning, mathematics and more. 
+In this website you find information about  Javier Orduz courses such as programming, machine learning, quantum machine learning, mathematics and more. 
 
 # baseurl: "/twitter-new" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
