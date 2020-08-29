@@ -17,6 +17,10 @@ implement more documentation in
 1. [Basic Programming with C](./mrkdwn/prgrmminCBsc.html)
 1. [Activities](./mrkdwn/activities.html)
 
+
+
+
+
 <!--
 
 1. [About: GCCyC](./mrkdwn/gccycInfo.html)
