@@ -13,8 +13,7 @@ layout: default
 
 We extend the invitation to...:
 
-![width='40%'](../_poster/CTIM_Pster_20-08.pdf)
-
+![width='40%'](../poster/CTIM_Pster_20-08.pdf)
 <!---
 ![width='40%'](figs/QuantaCalaverita.png)
 **Figure 1**: Quanta Calaverita 2019. 

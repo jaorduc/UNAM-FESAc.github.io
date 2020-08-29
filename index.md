@@ -19,8 +19,6 @@ implement more documentation in
 
 
 
-
-
 <!--
 
 1. [About: GCCyC](./mrkdwn/gccycInfo.html)
