@@ -11,9 +11,15 @@ layout: default
 
 [Go back](../)
 
-We extend the invitation to...:
+We want to see you in the seminar in the [youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA/live), while we have to stay at home. 
 
-![width='40%'](../_poster/CTIM_Pster_20-08.png)
+1. [Arturo Erdely](https://sites.google.com/site/arturoerdely/).
+Talk: Midiendo el pulso de la epidemia
+![width='30%'](/_poster/CTIM_Pster_20-08.png)
+
+
+
+
 <!---
 ![width='40%'](figs/QuantaCalaverita.png)
 **Figure 1**: Quanta Calaverita 2019. 
