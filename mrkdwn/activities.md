@@ -11,7 +11,7 @@ layout: default
 
 [Go back](../)
 
-We want to see you in the seminar in the [youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA/live), while we have to stay at home. 
+We want to see you in the seminar in the [youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA/live){:target="_blank"}, while we have to stay at home. 
 
 1. [Arturo Erdely](https://sites.google.com/site/arturoerdely/){:target="_blank"}.
 Talk: Midiendo el pulso de la epidemia
