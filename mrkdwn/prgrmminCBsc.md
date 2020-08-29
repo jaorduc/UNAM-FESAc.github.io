@@ -77,17 +77,17 @@ You continuously check the
 
 
 ## 4. References <a name="referencias"></a>
-1. Ir a Mis algoritmos [link](http://www.mis-algoritmos.com/){:target="_blank"}
+1. [Ir a Mis algoritmos](http://www.mis-algoritmos.com/){:target="_blank"}
 
-2. Ir a Resource [link](https://www.w3resource.com/c-programming/programming-in-c.php){:target="_blank"}
+2. [Go to resource](https://www.w3resource.com/c-programming/programming-in-c.php){:target="_blank"}
 
-3. Ir a includehelp [link](https://www.includehelp.com/c/){:target="_blank"}
+3. [Go to includehelp](https://www.includehelp.com/c/){:target="_blank"}
 
-4. Ir a faceprep [link](https://www.faceprep.in/c-programming-questions/){:target="_blank"}
+4. [Go to faceprep](https://www.faceprep.in/c-programming-questions/){:target="_blank"}
 
-5. Ir a geekforgeeks [link](https://www.geeksforgeeks.org/c-programming-language/){:target="_blank"}
+5. [Go to geekforgeeks](https://www.geeksforgeeks.org/c-programming-language/){:target="_blank"}
 
-6. Ir a programiz [link](https://www.programiz.com/c-programming){:target="_blank"}
+6. [Go to programiz](https://www.programiz.com/c-programming){:target="_blank"}
 
 #### [Go up](#Filehead)
 
