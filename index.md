@@ -17,6 +17,38 @@ implement more documentation in
 1. [Basic Programming with C](./mrkdwn/prgrmminCBsc.html)
 1. [Activities](./mrkdwn/activities.html)
 
+# Mensaje en español
+## 
+Estimados participantes de los grupos 1103 y 1151:
+
+Por razones obvias llevaremos a cabo las clases del semestre de 2020 
+en línea. 
+En este espacio les dejaré la liga para conectarse a las 
+clases el día lunes 21 de septiembre de 2020 a las 
+
+- 9 horas: aquí 
+[https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908)
+- 18 horas: aquí 
+<!--[https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908) 
+-->
+
+La liga estará disponible 10 minutos antes de cada clase.
+
+
+También les dejo un correo de pronta respuesta:
+[s4o6v3r8b2m9r3i8@jaorduzcourses.slack.com](s4o6v3r8b2m9r3i8@jaorduzcourses.slack.com).
+
+Esta cuenta de correo estará activa durante las todo el semestre, 
+y tendrá prioridad durante las primeras 2 semanas.
+
+
+
+En el sitio SEA [https://sea.acatlan.unam.mx/](https://sea.acatlan.unam.mx/). Con tus datos: 
+1. Nombre completo y 
+2. Número de matrícula
+
+Solicita la contraseña para matricularse al curso 
+por el correo [s4o6v3r8b2m9r3i8@jaorduzcourses.slack.com](s4o6v3r8b2m9r3i8@jaorduzcourses.slack.com).
 
 
 <!--
