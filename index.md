@@ -45,7 +45,7 @@ y tendrá prioridad durante las primeras 2 semanas.
 
 
 
-En el sitio SEA [https://sea.acatlan.unam.mx/](https://sea.acatlan.unam.mx/){:target="_blank"}. Con tus datos: 
+Hay más información en el sitio SEA [https://sea.acatlan.unam.mx/](https://sea.acatlan.unam.mx/){:target="_blank"}. Con tus datos: 
 1. Nombre completo y 
 2. Número de matrícula
 
