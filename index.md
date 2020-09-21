@@ -26,7 +26,7 @@ en línea.
 En este espacio les dejaré la liga para conectarse a las 
 clases el día lunes 21 de septiembre de 2020 a las 
 
-- 9 horas: Ir a la liga 
+- 9 horas: aquí
 <!--
 [https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908){:target="_blank"}
 -->
