@@ -30,9 +30,8 @@ clases el día lunes 21 de septiembre de 2020 a las
 <!--
 [https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908){:target="_blank"}
 -->
-- 18 horas: aquí 
-<!--[https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908) 
--->
+- 18 horas. Ve a la liga: https://unam.webex.com/meet/pr876908 ([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908)) 
+
 
 La liga estará disponible 10 minutos antes de cada clase.
 
@@ -52,6 +51,15 @@ Hay más información en el sitio SEA [https://sea.acatlan.unam.mx/](https://sea
 Solicita la contraseña para matricularse al curso 
 por el correo [s4o6v3r8b2m9r3i8@jaorduzcourses.slack.com](s4o6v3r8b2m9r3i8@jaorduzcourses.slack.com) (s4o6v3r8b2m9r3i8@jaorduzcourses.slack.com).
 
+## Contactos:
+### Programa de MAC
+1. mac@acatlan.unam.mx ([mac@acatlan.unam.mx](mac@acatlan.unam.mx))
+1. Números teléfonicos: (55) 5623 1740 y (55) 5623 1741
+
+### Profesor
+1. Les animo a unirse a las primeras sesiones, ahí aclararé dudas sobre la comunicación, reuniones y demás. En caso de algún situación particular, por favor comúnicate al correo:
+	- jaorduz@ciencias.unam.mx ([jaorduz@ciencias.unam.mx](jaorduz@ciencias.unam.mx))
+	- o Usa el widget de calendly (parte inferior derecha) para agendar una reunión.
 
 <!--
 
