@@ -30,8 +30,10 @@ clases el día lunes 21 de septiembre de 2020 a las
 <!--
 [https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908){:target="_blank"}
 -->
-- 18 horas. Ve a la liga: https://unam.webex.com/meet/pr876908 ([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908)) 
-
+- 18 horas. aquí
+<!--
+Ve a la liga: https://unam.webex.com/meet/pr876908 ([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908)) 
+-->
 
 La liga estará disponible 10 minutos antes de cada clase.
 
