@@ -23,14 +23,18 @@ implement more documentation in
 Por razones obvias llevaremos a cabo las clases del semestre de 2020 
 en línea. 
 En este espacio les dejaré la liga para conectarse a las 
-clases el día lunes 21 de septiembre de 2020 a las 
+clases. Para la sesión de las: 
 
-- 9 horas. Para la sesión de hoy miércoles (23/09/2020)
-ve a https://unam.webex.com/meet/pr876908
-([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908){:target="_blank"})
-- 18 horas. aquí
+- 09:00 horas. aquí
+- 18:00 horas. aquí
+
 <!--
-Ve a la liga: https://unam.webex.com/meet/pr876908 ([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908)) 
+- 9:00 horas, fecha 23/09/2020. Ir a 
+https://unam.webex.com/meet/pr876908
+([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908){:target="_blank"})
+
+- 18:00 horas, fecha 23/09/2020. Ir a 
+https://unam.webex.com/meet/pr876908 ([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908)) 
 -->
 
 La liga estará disponible 10 minutos antes de cada clase.
