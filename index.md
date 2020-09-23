@@ -17,8 +17,7 @@ implement more documentation in
 1. [Basic Programming with C](./mrkdwn/prgrmminCBsc.html)
 1. [Activities](./mrkdwn/activities.html)
 
-# Mensaje importante
-
+#<span style="color:blue">Mensaje importante</span>
 ## Estimados participantes de los grupos 1103 y 1151:
 
 Por razones obvias llevaremos a cabo las clases del semestre de 2020 
@@ -26,10 +25,9 @@ en línea.
 En este espacio les dejaré la liga para conectarse a las 
 clases el día lunes 21 de septiembre de 2020 a las 
 
-- 9 horas: aquí
-<!--
-[https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908){:target="_blank"}
--->
+- 9 horas. Para la sesión de hoy miércoles (23/09/2020)
+ve a https://unam.webex.com/meet/pr876908
+([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908){:target="_blank"})
 - 18 horas. aquí
 <!--
 Ve a la liga: https://unam.webex.com/meet/pr876908 ([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908)) 
