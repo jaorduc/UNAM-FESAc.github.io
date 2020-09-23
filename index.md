@@ -27,8 +27,8 @@ clases. Para la sesión de las:
 
 - 09:00 horas. aquí
 
-- 18:00 horas, fecha 23/09/2020. Ir a 
-https://unam.webex.com/meet/pr876908 ([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908))
+- 18:00 horas, aquí
+
 
 <!--
 - 9:00 horas, fecha 23/09/2020. Ir a 
