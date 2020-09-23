@@ -17,7 +17,7 @@ implement more documentation in
 1. [Basic Programming with C](./mrkdwn/prgrmminCBsc.html)
 1. [Activities](./mrkdwn/activities.html)
 
-#<span style="color:blue">Mensaje importante</span>
+# <span style="color:blue">Mensaje importante</span>
 ## Estimados participantes de los grupos 1103 y 1151:
 
 Por razones obvias llevaremos a cabo las clases del semestre de 2020 
