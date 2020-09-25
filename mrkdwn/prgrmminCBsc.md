@@ -28,11 +28,14 @@ Welcome to this course and I hope you enjoy it.
 
 
 ## 1. Material  <a name="material"></a>
-Check the [link](http://sae.acatlan.unam.mx/){:target="_blank"} 
-use the data given for Salvador to log in.
-Besides you can download the document use in the class 
-[here](https://www.dropbox.com/s/f5ats3j5liw0fqx/prgrmmng-I-clss.pdf?dl=0){:target="_blank"}.
+Check the [link](https://sea.acatlan.unam.mx/){:target="_blank"}, 
+you should use the password given by professor to log in.
+Besides you can download the course documents 
 
+1. [First weeks](https://www.dropbox.com/s/67szdv2wg82iw5g/inicial.pdf?dl=0) or in this path https://tinyurl.com/y58b4zn3
+1. General document [here](https://www.dropbox.com/s/3wg3trk0tehpwff/prgrmmng-I-clss.pdf?dl=0){:target="_blank"} or 
+in this path https://tinyurl.com/y5ndusw5
+1. Respecto al repositorio que usaremos: [https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C). 
 
 ## 2. Lectures and homework <a name="homework"></a>
 The student has to read the following blogs:

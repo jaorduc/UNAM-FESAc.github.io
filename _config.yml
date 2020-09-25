@@ -2,9 +2,12 @@ title: JO's Courses
 author: Javier Orduz
 logo: /assets/img/FESAcUNAM.jpg
 description: Quantum and Scientific Computing Group.
-show_downloads: false 
+show_downloads: true 
 google_analytics: quantum computing, scientific computing, quantum machine learning
 theme: jekyll-theme-minimal
 date_format: "%B %-d, %Y"
 timezone: "America/MexicoCity"
 markdown: kramdown
+# JAOD
+plugins:
+  - jemoji
