@@ -27,8 +27,9 @@ en línea.
 En este espacio les dejaré la liga para conectarse a las 
 clases. Para la sesión de las: 
 
-- 9:00 horas, fecha 28/09/2020. Aquí
-
+- 9:00 horas, fecha 28/09/2020. 
+Ir a 
+https://unam.webex.com/meet/pr876908 ([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908)) 
 - 18:00 horas, fecha 28/09/2020. Aquí
 
 <!--
