@@ -31,7 +31,7 @@ clases. Para la sesión de las:
 Aquí
 
 - 18:00 horas, fecha 30/09/2020. 
-Aquí
+AQUI
 
 <!--
 - 9:00 horas, fecha 25/09/2020. Ir a 
