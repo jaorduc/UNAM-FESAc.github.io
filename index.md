@@ -32,14 +32,15 @@ Aquí
 
 - 18:00 horas, fecha 30/09/2020. 
 
+<span style="color:red">Estimados compañeros del G1151:</span>
 ---
-Estimados compañeros del G1151:
 
 Les comento que hoy miércoles (30/09/2020) 
 *no habrá clase a las 18 horas*, 
 ya que tendré un evento con el director de la Facultad.
 Coméntenlo con sus demás compañeros del G1151.
 Agradezco su apoyo.
+
 ---
 
 
