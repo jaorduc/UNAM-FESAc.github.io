@@ -45,7 +45,7 @@ The student has to read the following blogs:
 - [To motivate myself...](https://www.quora.com/What-can-I-do-to-motivate-myself-for-programming-regularly-for-4-6-hours){:target="_blank"}
 
 Now you can discuss with your classmates :stuck_out_tongue_winking_eye:. 
-We can use the [site to talk] a site, mention to the professor.
+We can use the (https://gather.town/)[https://gather.town/]{:target="_blank"} a site, mention to the professor.
 
 Ask Salvador, Emmanuel, Oscar or Diana and GCCyC about the course, philosophy, ideas, projects or any.
 
