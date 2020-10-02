@@ -27,10 +27,9 @@ en línea.
 En este espacio les dejaré la liga para conectarse a las 
 clases. Para la sesión de las: 
 
-- 9:00 horas, fecha 02/10/2020. 
+- 9:00 horas, fecha 05/10/2020. 
 
-- 18:00 horas, fecha 30/09/2020. 
-
+- 18:00 horas, fecha 02/09/2020. Aqui
 
 <!--
 - 9:00 horas, fecha 25/09/2020. Ir a 
