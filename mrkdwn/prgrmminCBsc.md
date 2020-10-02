@@ -73,7 +73,7 @@ programming.
 ------------------------------------------------------------------| -------------|
   First exam (26-30 october):                 | 30 %         |
   Second exam (07-11 december):                 | 30 %         |
-  Final Project (friday 15 january (2021)):                        | 20 %         | 
+  Final Project (14-18 december):                        | 20 %         | 
   Laboratory jobs and class exercises:                            | 10 %         |
   Material, informationn and homeworks or SAE (web site) exercise |10 %          |
   
