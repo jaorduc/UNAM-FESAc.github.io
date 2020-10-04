@@ -15,6 +15,8 @@ implement more documentation in
 [code](https://code.org/){:target="_blank"}, [tech.io](https://tech.io/){:target="_blank"}, [repl.it](https://repl.it){:target="_blank"} ad more; and tests, quizes and more should be found 
 [kahoot](https://kahoot.com/){:target="_blank"} and others.
 
+Next you find information about courses, activities and importante messages for FES-Acatlan course.
+
 
 1. [Basic Programming with C](./mrkdwn/prgrmminCBsc.html)
 1. [Activities](./mrkdwn/activities.html)
