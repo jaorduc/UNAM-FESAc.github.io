@@ -20,6 +20,9 @@ implement more documentation in
 1. [Activities](./mrkdwn/activities.html)
 1. [Important messages](./mrkdwn/messages.html)
 
+
+
+
 <!--
 
 1. [About: GCCyC](./mrkdwn/gccycInfo.html)
@@ -60,17 +63,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Header 6
 
@@ -84,20 +76,6 @@ end
 ### There's a horizontal rule below this.
 
 * * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
 
 ### And a nested list:
 

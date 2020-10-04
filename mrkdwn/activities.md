@@ -11,16 +11,21 @@ layout: default
 
 [Go back](../)
 
-We want to see you in the seminar in the [youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA/live){:target="_blank"}, while we have to stay at home. 
+### Contents
+
+1. [Basic Programming with C](./mrkdwn/prgrmminCBsc.html)
+1. [Activities](./mrkdwn/activities.html)
+
+
+We want to see you in the seminar in the 
+[youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA/live){:target="_blank"}, 
+while we have to stay at home. 
 
 
 1. Juan Pablo Tellez.
 Talk: Los seguros en la era dígital
 ![width='30%'](CTIM_Pster_20-10.png)
 
-1. [Arturo Erdely](https://sites.google.com/site/arturoerdely/){:target="_blank"}.
-Talk: Midiendo el pulso de la epidemia
-![width='30%'](CTIM_Pster_20-08.png)
 
 
 
@@ -28,6 +33,12 @@ Talk: Midiendo el pulso de la epidemia
 <!---
 ![width='40%'](figs/QuantaCalaverita.png)
 **Figure 1**: Quanta Calaverita 2019. 
+
+1. [Arturo Erdely](https://sites.google.com/site/arturoerdely/){:target="_blank"}.
+Talk: Midiendo el pulso de la epidemia
+![width='30%'](CTIM_Pster_20-08.png)
+
+
 --->
 
 <!--- JO: with the original template --->
