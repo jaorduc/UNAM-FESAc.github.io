@@ -7,7 +7,8 @@ layout: default
 [license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.es
 [![CC License][license-badge]][license]
 
-# <span style="color:blue">Mensaje importante</span>
+# Mensaje importante
+
 ## Estimados participantes de los grupos 1103 y 1151:
 
 Por razones obvias llevaremos a cabo las clases del semestre de 2020 
