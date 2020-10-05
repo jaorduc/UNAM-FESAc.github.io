@@ -11,13 +11,13 @@ layout: default
 
 [Go back](../)
 
-### Contents
+## Contents
 
 1. [Basic Programming with C](#stemsem)
 1. [Activities](#quantacal)
 
 
-## STEM Seminar <a name ="stemsem"></a>
+# STEM Seminar <a name ="stemsem"></a>
 We want to see you in the seminar in the 
 [youtube channel](https://www.youtube.com/channel/UC0xcSLbzXcggYuz182gABaA/live){:target="_blank"}, 
 while we have to stay at home. 
@@ -26,9 +26,9 @@ while we have to stay at home.
 1. Juan Pablo Tellez.
 Talk: Los seguros en la era dígital
 ![width='30%'](CTIM_Pster_20-10.png)
-1. 
 
-## Quanta Calaverita <a name ="quantacal"></a>
+
+# Quanta Calaverita <a name ="quantacal"></a>
 This entanglement event integrates computing, mathematics and, 
 general science, with the mexican traditions in an academic 
 environment where people can participated with calaverita which 
@@ -38,7 +38,7 @@ must contain applied, maths and engineering concepts.
 
 
 In this link you reach out the previous information.
-[https://sites.google.com/view/quantacalaverita](https://sites.google.com/view/quantacalaverita)
+[https://sites.google.com/view/quantacalaverita](https://sites.google.com/view/quantacalaverita){:target="_blank"}
 
 
 <!---
