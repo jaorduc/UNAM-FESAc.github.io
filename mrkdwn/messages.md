@@ -18,7 +18,9 @@ clases. Para la sesión de las:
 
 - 9:00 horas, fecha 05/10/2020. Aqui
 
-- 18:00 horas, fecha 05/09/2020. Aqui
+- 18:00 horas, fecha 05/09/2020. 
+Ir a https://unam.webex.com/meet/pr876908 ([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908)).
+
 
 
 <!--
