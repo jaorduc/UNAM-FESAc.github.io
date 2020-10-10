@@ -16,19 +16,17 @@ en línea.
 En este espacio les dejaré la liga para conectarse a las 
 clases. Para la sesión de las: 
 
-- 9:00 horas, fecha 09/10/2020. Aqui
+- 9:00 horas, fecha 09/10/2020. Aquí
 
-- 18:00 horas, fecha 07/09/2020. Ir a 
-https://unam.webex.com/meet/pr876908 ([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908))
-
+- 18:00 horas, fecha 09/09/2020. Aquí
 
 
 <!--
 - 9:00 horas, fecha 25/09/2020. Ir a 
-https://unam.webex.com/meet/pr876908 ([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908)) 
+https://unam.webex.com/meet/pr876908 ([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908){:target="_blank"}) 
 
 - 18:00 horas, fecha 23/09/2020. Ir a 
-https://unam.webex.com/meet/pr876908 ([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908)) 
+https://unam.webex.com/meet/pr876908 ([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908){:target="_blank"}) 
 -->
 
 La liga estará disponible 10 minutos antes de cada clase.
