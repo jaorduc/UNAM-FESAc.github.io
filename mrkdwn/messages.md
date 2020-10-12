@@ -16,7 +16,11 @@ en línea.
 En este espacio les dejaré la liga para conectarse a las 
 clases. Para la sesión de las: 
 
-- 9:00 horas, fecha 09/10/2020. Aquí
+- 9:00 horas, fecha 12/10/2020. 
+Ir a 
+https://cuaed-unam.zoom.us/j/9151902252 ([https://cuaed-unam.zoom.us/j/9151902252](https://cuaed-unam.zoom.us/j/9151902252){:target="_blank"}) 
+Este es el último mensaje de este tipo, en el canal de _slack_ 
+tiene la forma de encontrar el canal para llevar las sesiones.
 
 - 18:00 horas, fecha 09/09/2020. Aquí
 
