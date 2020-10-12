@@ -19,7 +19,7 @@ clases. Para la sesión de las:
 - 9:00 horas, fecha 12/10/2020. Aquí.
 
 
-- 18:00 horas, fecha 12/09/2020. Aquí
+- 18:00 horas, fecha 12/10/2020. Aquí
 
 
 <!--
