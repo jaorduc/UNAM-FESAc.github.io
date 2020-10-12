@@ -13,9 +13,9 @@ layout: default
 
 ## Contents
 
-1. [Basic Programming with C](#stemsem)
-1. [Activities](#quantacal)
-
+1. [STEM Seminar](#stemsem)
+1. [Quanta Calaverita](#quantacal)
+1. [QMexico](#qmexico)
 
 # STEM Seminar <a name ="stemsem"></a>
 We want to see you in the seminar in the 
@@ -39,6 +39,25 @@ must contain applied, maths and engineering concepts.
 
 In this link you reach out the previous information.
 [https://sites.google.com/view/quantacalaverita](https://sites.google.com/view/quantacalaverita){:target="_blank"}
+
+
+
+
+# QMexico <a name ="qmexico"></a>
+
+This an event higly recommended for enthusiastic people, and interested about Quantum Computing and Quantum Machine Learning.
+
+![width='30%'](PstrQMexico.jpg)
+
+Besides, you can follow our channel on 
+
+- youtube: [https://www.youtube.com/channel/UCsSBfKzwO8C3A3VA_OxXqqA/live](https://www.youtube.com/channel/UCsSBfKzwO8C3A3VA_OxXqqA/live){:target="_blank"}
+- twitter: [https://twitter.com/_QMexico](https://twitter.com/_QMexico){:target="_blank"} 
+- facebook: [https://www.facebook.com/qmexico42)(https://www.facebook.com/qmexico42){:target="_blank"} 
+- Github: [https://qmexico.github.io/](https://qmexico.github.io/){:target="_blank"}
+
+ 
+
 
 
 <!---
