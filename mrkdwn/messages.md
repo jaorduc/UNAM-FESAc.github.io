@@ -18,7 +18,8 @@ clases. Para la sesión de las:
 
 - 9:00 horas, fecha 14/10/2020. Aquí.
 
-- 18:00 horas, fecha 14/10/2020. Aquí.
+- 18:00 horas, fecha 14/10/2020. Ir a 
+https://unam.webex.com/meet/pr876908 ([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908){:target="_blank"})
 
 <!--
 - 9:00 horas, fecha 25/09/2020. Ir a 
