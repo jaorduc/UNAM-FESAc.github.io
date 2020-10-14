@@ -16,11 +16,11 @@ en línea.
 En este espacio les dejaré la liga para conectarse a las 
 clases. Para la sesión de las: 
 
-- 9:00 horas, fecha 12/10/2020. Aquí.
+- 9:00 horas, fecha 14/10/2020. Aquí.
+Ir a 
+https://cuaed-unam.zoom.us/j/9151902252 ([https://cuaed-unam.zoom.us/j/9151902252](https://cuaed-unam.zoom.us/j/9151902252){:target="_blank"})
 
-
-- 18:00 horas, fecha 12/10/2020. Ir a 
-https://unam.webex.com/meet/pr876908 ([https://unam.webex.com/meet/pr876908](https://unam.webex.com/meet/pr876908){:target="_blank"}) 
+- 18:00 horas, fecha 14/10/2020. Aquí.
 
 <!--
 - 9:00 horas, fecha 25/09/2020. Ir a 
