@@ -62,7 +62,7 @@ Besides, you can follow our channel on
 
 - youtube: [https://www.youtube.com/channel/UCsSBfKzwO8C3A3VA_OxXqqA/live](https://www.youtube.com/channel/UCsSBfKzwO8C3A3VA_OxXqqA/live){:target="_blank"}
 - twitter: [https://twitter.com/_QMexico](https://twitter.com/_QMexico){:target="_blank"} 
-- facebook: [https://www.facebook.com/qmexico42)(https://www.facebook.com/qmexico42){:target="_blank"} 
+- facebook: [https://www.facebook.com/qmexico42](https://www.facebook.com/qmexico42){:target="_blank"} 
 - Github: [https://qmexico.github.io/](https://qmexico.github.io/){:target="_blank"}
 
  
