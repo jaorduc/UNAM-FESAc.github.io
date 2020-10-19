@@ -34,9 +34,11 @@ general science, with the mexican traditions in an academic
 environment where people can participated with calaverita which 
 must contain applied, maths and engineering concepts.
 
-<span style="color:red">We will published soon...</span>
+
+![some discription](Calaveritas.pdf "some discription")
 
 
+Past events:
 In this link you reach out the previous information.
 [https://sites.google.com/view/quantacalaverita](https://sites.google.com/view/quantacalaverita){:target="_blank"}
 
@@ -68,6 +70,7 @@ Besides, you can follow our channel on
 Talk: Midiendo el pulso de la epidemia
 ![width='30%'](CTIM_Pster_20-08.png)
 
+<span style="color:red">We will published soon...</span>
 
 --->
 
