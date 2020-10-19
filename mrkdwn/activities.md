@@ -34,10 +34,11 @@ general science, with the mexican traditions in an academic
 environment where people can participated with calaverita which 
 must contain applied, maths and engineering concepts.
 
-![width='30%'](Calaveritas.png "some discription")
+
+[![width='30%'](Calaveritas.png)](https://tinyurl.com/yyhhzbog)
 
 Submit your _Calaverita_
-https://tinyurl.com/yyhhzbog
+[https://tinyurl.com/yyhhzbog](https://tinyurl.com/yyhhzbog){:target="_blank"}
 
 Call for _calaveritas_
 
