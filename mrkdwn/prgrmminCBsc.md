@@ -35,7 +35,8 @@ Besides you can download the course documents
 1. [First weeks](https://www.dropbox.com/s/67szdv2wg82iw5g/inicial.pdf?dl=0){:target="_blank"} or in this path https://tinyurl.com/y58b4zn3
 1. General document [here](https://www.dropbox.com/s/3wg3trk0tehpwff/prgrmmng-I-clss.pdf?dl=0){:target="_blank"} or 
 in this path https://tinyurl.com/y5ndusw5
-1. Respecto al repositorio que usaremos: [https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C){:target="_blank"}. 
+1. We will use the next repository: [https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C){:target="_blank"}. 
+1. To report, you should use: [PDF](https://www.dropbox.com/s/jm3uee3u9od204b/gral-templete.pdf?dl=0){:target="_blank"} and source [LaTeX](https://www.dropbox.com/s/1is47gnz9jghqhs/gral-templete.tex?dl=0){:target="_blank"}
 
 ## 2. To read and to do <a name="homework"></a>
 
