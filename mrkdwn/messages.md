@@ -11,12 +11,12 @@ layout: default
 
 ## Estimados participantes de los grupos 1103 y 1151:
 
-Por razones obvias llevaremos a cabo las clases del semestre de 2020 
-en línea. 
-En este espacio les dejaré la liga para conectarse a las 
-clases. Para la sesión de las: 
+Por razones obvias llevaremos a cabo las clases del semestre de 2020 en línea. 
+En este espacio ya no les dejaré la liga para conectarse a las 
+clases, el estudiante debería estar inscrito en SEA, slack o discord, por ahí se puede apoyar para encontrar las ligas 
+para las sesiones de: 
 
-- 9:00 horas, fecha 21/10/2020. Aqui
+- 9:00 horas, fecha 21/10/2020.
 
 - 18:00 horas, fecha 21/10/2020. 
 
