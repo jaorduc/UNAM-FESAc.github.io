@@ -16,8 +16,7 @@ en línea.
 En este espacio les dejaré la liga para conectarse a las 
 clases. Para la sesión de las: 
 
-- 9:00 horas, fecha 21/10/2020. Ir a 
-https://cuaed-unam.zoom.us/j/9151902252 ([https://cuaed-unam.zoom.us/j/9151902252](https://cuaed-unam.zoom.us/j/9151902252){:target="_blank"})
+- 9:00 horas, fecha 21/10/2020. Aqui
 
 - 18:00 horas, fecha 21/10/2020. 
 
