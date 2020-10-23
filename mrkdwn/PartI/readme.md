@@ -1,3 +1,11 @@
+<!-- badges -->
+[license-badge]: https://img.shields.io/badge/Licencia-CC-orange
+[license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.es
+[![CC License][license-badge]][license]
+
+[Go back](../)
+
+
 # Laboratorio: Tipos de datos<a name="LabTiposDeDatos"></a>
 
 Los siguientes ejercicios tiene como propósito revisar y repasar los 
@@ -17,14 +25,14 @@ Debes realizar un informe de laboratorio que contenga información sobre la
 lista de [ejercicios especiales](#ejerciciosespeciales) que aparecen en 
 esta sección. El formato para el informe 
 debe seguir el que se muestra en el siguiente archivo:
-[PDF](https://www.dropbox.com/s/f0yia01yn2i1ozw/gral-templete.pdf?dl=0). 
+[PDF](https://www.dropbox.com/s/jm3uee3u9od204b/gral-templete.pdf?dl=0){:target="_blank"} y el archivo fuente [LaTeX](https://www.dropbox.com/s/1is47gnz9jghqhs/gral-templete.tex?dl=0){:target="_blank"} 
 Este formato puede usarse para la entrega de diferentes reportes, incluso 
 tu proyecto final. Coloca tu documento (PDF) en tu dropbox.
 
 ### Ejercicios<a name="ejercicios"></a>
   
 1. *06Ex_int_exercise.c* Modifica el archivo
-[(:link:)](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/blob/master/PartI/06Ex_int_exercise.c) por 
+[:link:](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/blob/master/PartI/06Ex_int_exercise.c){:target="_blank"} por 
 los siguientes tipos de datos:
 - *char*
 - *float*
@@ -75,17 +83,21 @@ Indica cuál será la declaración de variables y Escribe los programas.
 
 ### Referencias<a name="referencias"></a>
 
-1. Tipos de datos en C ([:link:](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=899:tipos-de-datos-en-c-declarar-variables-enteras-int-long-o-decimal-float-double-char-inicializacion-cu00510f&catid=82&Itemid=210))
+1. Tipos de datos en C [:link:](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=899:tipos-de-datos-en-c-declarar-variables-enteras-int-long-o-decimal-float-double-char-inicializacion-cu00510f&catid=82&Itemid=210){:target="_blank"}
 
-2. Léxico de C ([:link:](http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm))
+2. Léxico de C [:link:](http://decsai.ugr.es/~jfv/ed1/c/cdrom/cap2/cap24.htm){:target="_blank"}
 
-3. Tipos de datos en C: Arquitectura de Sistemas ([:link:](http://www.it.uc3m.es/abel/as/DSP/M1/CDataTypes_es.html#id16635089))
+3. Tipos de datos en C: Arquitectura de Sistemas [:link:](http://www.it.uc3m.es/abel/as/DSP/M1/CDataTypes_es.html#id16635089){:target="_blank"}
 
-4. Learn C ([:link:](https://www.programiz.com/c-programming/c-data-types))
+4. Learn C [:link:](https://www.programiz.com/c-programming/c-data-types){:target="_blank"}
 
 
-#### [Volver al inicio](#LabTiposDeDatos)
+[Volver al inicio](#LabTiposDeDatos)
+
+[Go back](../)
 
 <!---
 https://rstudio-pubs-static.s3.amazonaws.com/330387_5a40ca72c3b14824acedceb7d34618d1.html
 --->
+
+
