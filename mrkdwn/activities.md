@@ -66,7 +66,16 @@ Besides, you can follow our channel on
 - Github: [https://qmexico.github.io/](https://qmexico.github.io/){:target="_blank"}
 
  
+## QMexico Workshop
+ 
+ We invite you to our events:
+ 
+[![width='30%'](QBronze39_Twitter_A.jpg)](https://tinyurl.com/y5wn55ek)
 
+Use next link to register 
+[https://tinyurl.com/y5wn55ek](https://tinyurl.com/y5wn55ek)
+
+fill this form [https://tinyurl.com/y3mc3z59](https://tinyurl.com/y3mc3z59)
 
 
 <!---
