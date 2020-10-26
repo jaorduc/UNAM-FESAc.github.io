@@ -70,12 +70,12 @@ Besides, you can follow our channel on
  
  We invite you to our events:
  
-[![width='30%'](QBronze39_Twitter_A.jpg)](https://tinyurl.com/y5wn55ek)
+[![width='30%'](QBronze39_Twitter_A.jpg)](https://tinyurl.com/y5wn55ek){:target="_blank"}
 
 Use next link to register 
-[https://tinyurl.com/y5wn55ek](https://tinyurl.com/y5wn55ek)
+[https://tinyurl.com/y5wn55ek](https://tinyurl.com/y5wn55ek){:target="_blank"}
 
-fill this form [https://tinyurl.com/y3mc3z59](https://tinyurl.com/y3mc3z59)
+fill this form [https://tinyurl.com/y3mc3z59](https://tinyurl.com/y3mc3z59){:target="_blank"}
 
 
 <!---
