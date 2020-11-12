@@ -16,6 +16,8 @@ information, it was created by [Javier Orduz](https://gccyc.github.io/).
 1. Go to [jaorduz.github.io](https://jaorduz.github.io) to find and check more information and instructions
 1. Fork this repository and modify the information.
 1. Ckeck the License and copyrights.
+1. Calendly app it should be in _layouts/default.html in HTML
+
 
 # References
 
