@@ -129,7 +129,7 @@ caracter especial.
 
 ### 4. Referencias<a name="referencias"></a>
 
-1. Ir facerep [:link:](https://www.faceprep.in/c-programming-questions/)
+1. Ir facerep [:link:](https://www.faceprep.in/c-programming-questions/){:target="_blank"}
 
 
 
