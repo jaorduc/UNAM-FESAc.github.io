@@ -3,7 +3,7 @@
 [license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.es
 [![CC License][license-badge]][license]
 
-[Go back](../../)
+### [Go back](../../)
 
 
 # Laboratorio: Tipos de datos<a name="LabTiposDeDatos"></a>
@@ -92,9 +92,13 @@ Indica cuál será la declaración de variables y Escribe los programas.
 4. Learn C [:link:](https://www.programiz.com/c-programming/c-data-types){:target="_blank"}
 
 
-[Volver al inicio](#LabTiposDeDatos)
 
-[Go back](../../)
+#### [Volver al inicio](#LabTiposDeDatos)
+#### [Go back](../../)
+
+
+
+
 
 <!---
 https://rstudio-pubs-static.s3.amazonaws.com/330387_5a40ca72c3b14824acedceb7d34618d1.html

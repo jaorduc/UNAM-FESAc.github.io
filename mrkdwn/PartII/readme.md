@@ -1,3 +1,12 @@
+<!-- badges -->
+[license-badge]: https://img.shields.io/badge/Licencia-CC-orange
+[license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.es
+[![CC License][license-badge]][license]
+
+
+#### [Go back](../../)
+
+
 # Laboratorio: Implementación de Códigos Básicos<a name="LabImpDeCod"></a>
 
 Los siguientes ejercicios tiene como propósito revisar y repasar los 
@@ -19,7 +28,7 @@ Debes realizar un informe de laboratorio que contenga información sobre la
 lista de [ejercicios especiales](#ejerciciosespeciales) que aparecen en 
 esta sección. El formato para el informe 
 debe seguir el que se muestra en el siguiente archivo:
-[PDF](https://www.dropbox.com/s/3wg3trk0tehpwff/prgrmmng-I-clss.pdf?dl=0){:target="_blank"}. Este formato 
+[PDF](https://www.dropbox.com/s/jm3uee3u9od204b/gral-templete.pdf?dl=0){:target="_blank"}. Este formato 
 puede usarse para la entrega de diferentes reportes, incluso tu proyecto final.
 Coloca tu documento (PDF) en tu dropbox.
 
@@ -123,5 +132,7 @@ caracter especial.
 1. Ir facerep [:link:](https://www.faceprep.in/c-programming-questions/)
 
 
+
 #### [Volver al inicio](#LabImpDeCod)
+#### [Go back](../../)
 
