@@ -14,6 +14,8 @@ conceptos del tema **implementación de códigos básicos**
 
 En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 
+### Usa el repositorio que se encuentra en: [partII](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/tree/master/PartII){:target="_blank"}
+
 ## Tabla de Contenido
 1. [Informe de Laboratorio](#InfLabPDF)
 2. [Ejercicios](#ejercicios)
