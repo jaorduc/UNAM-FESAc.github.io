@@ -1,3 +1,11 @@
+<!-- badges -->
+[license-badge]: https://img.shields.io/badge/Licencia-CC-orange
+[license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.es
+[![CC License][license-badge]][license]
+
+
+#### [Go back](../../)
+
 # Laboratorio:Estructuras de Control<a name="LabEstrDeContr"></a>
 
 Los siguientes ejercicios tiene como propósito revisar y repasar los 
@@ -247,6 +255,6 @@ un _switch_ anidado.
 2. Ir a programavideojuegos[:link:](http://programavideojuegos.blogspot.com/2013/05/25-ejercicios-resueltos-de-estructuras.html)
 
 
-#### [Volver al inicio](#LabEstrDeContr)
-
+#### [Volver al inicio](#LabEstrDeContr
+#### [Go back](../../)
 

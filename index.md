@@ -23,6 +23,9 @@ messages for FES-Acatlan community.
 1. [Basic Programming with C](./mrkdwn/prgrmminCBsc.html)
 - [Part I](./mrkdwn/PartI/readme.md)
 - [Part II](./mrkdwn/PartII/readme.md)
+- [Part III](./mrkdwn/PartIII/readme.md)
+- [Part IV](./mrkdwn/PartIV/readme.md)
+- [Part V](./mrkdwn/PartV/readme.md)
 
 1. [Activities](./mrkdwn/activities.html)
 1. [Important messages](./mrkdwn/messages.html)
