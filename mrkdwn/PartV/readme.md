@@ -6,6 +6,7 @@ general al concepto de apuntadores.
 
 En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 
+### Usa el repositorio que se encuentra en: [partV](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/tree/master/PartV){:target="_blank"}
 
 ## Tabla de Contenido
 1. [Informe de Laboratorio](#InfLabPDF)

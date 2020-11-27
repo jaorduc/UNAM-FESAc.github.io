@@ -5,6 +5,8 @@ conceptos del tema **Arreglos**.
 
 En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 
+### Usa el repositorio que se encuentra en: [partVI](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/tree/master/PartVI){:target="_blank"}
+
 ## Tabla de Contenido
 1. [Informe de Laboratorio](#InfLabPDF)
 2. [Ejercicios](#ejercicios)

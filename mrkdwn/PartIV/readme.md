@@ -5,6 +5,8 @@ conceptos del tema **Estructuras de Control**
 
 En las siguientes líneas encuentras la tabla de contenido de esta carpeta.
 
+### Usa el repositorio que se encuentra en: [partIV](https://github.com/UNAM-FESAc/Bsc_Prgrmmng_C/tree/master/PartIV){:target="_blank"}
+
 ## Tabla de Contenido
 1. [Informe de Laboratorio](#InfLabPDF)
 2. [Ejercicios](#ejercicios)
