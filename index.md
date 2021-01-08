@@ -26,6 +26,8 @@ messages for FES-Acatlan community.
 - [Part III](./mrkdwn/PartIII/readme.md)
 - [Part IV](./mrkdwn/PartIV/readme.md)
 - [Part V](./mrkdwn/PartV/readme.md)
+- [Part VI](./mrkdwn/PartVI/readme.md)
+- [Part VII](./mrkdwn/PartVII/readme.md)
 
 1. [Activities](./mrkdwn/activities.html)
 1. [Important messages](./mrkdwn/messages.html)
