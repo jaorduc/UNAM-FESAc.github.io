@@ -1,3 +1,5 @@
+url : https://jaorduz.github.io 
+repository               : "https://jaorduz.github.io"
 title: JO's Courses
 author: Javier Orduz
 logo: /assets/img/FESAcUNAM.jpg
@@ -11,3 +13,4 @@ markdown: kramdown
 # JAOD
 plugins:
   - jemoji
+
